@@ -1,0 +1,28 @@
+{
+  "gateway": {
+    "mode": "local",
+    "bind": "loopback"
+  },
+  "agents": {
+    "defaults": {
+      "workspace": "C:\\Users\\aaape\\.openclaw\\workspace-dev",
+      "skipBootstrap": true
+    },
+    "list": [
+      {
+        "id": "dev",
+        "default": true,
+        "workspace": "C:\\Users\\aaape\\.openclaw\\workspace-dev",
+        "identity": {
+          "name": "C3-PO",
+          "theme": "protocol droid",
+          "emoji": "🤖"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.5.17",
+    "lastTouchedAt": "2026-05-16T17:32:49.912Z"
+  }
+}

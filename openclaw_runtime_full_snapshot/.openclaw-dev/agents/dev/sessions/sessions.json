@@ -1,0 +1,12 @@
+{
+  "agent:dev:main": {
+    "sessionId": "1f60c304-4eda-43cd-9adc-56de23735826",
+    "updatedAt": 1778953986918,
+    "sessionStartedAt": 1778953986916,
+    "systemSent": false,
+    "abortedLastRun": false,
+    "chatType": "direct",
+    "sessionFile": "C:\\Users\\aaape\\.openclaw-dev\\agents\\dev\\sessions\\1f60c304-4eda-43cd-9adc-56de23735826.jsonl",
+    "compactionCount": 0
+  }
+}
